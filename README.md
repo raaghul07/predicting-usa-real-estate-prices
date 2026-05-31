@@ -1,3 +1,6 @@
+## View Notebook
+[Open in NBViewer](https://nbviewer.org/github/raaghul07/predicting-usa-real-estate-prices/blob/main/USA_Real_Estate_Price_Analysis_and_Prediction.ipynb)
+
 # 🏠 USA Real Estate Price Analysis & Prediction
 
 Exploratory data analysis and machine learning model to predict US property prices using 91,000+ real estate listings.
